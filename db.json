@@ -1,0 +1,74 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "title": "Modern Apartment in Belgrade",
+      "price": "€120,000",
+      "location": "Belgrade, Serbia",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+    },
+    {
+      "id": 2,
+      "title": "Cozy Studio in Zagreb",
+      "price": "€85,000",
+      "location": "Zagreb, Croatia",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    {
+      "id": 3,
+      "title": "Luxury Villa in Split",
+      "price": "€450,000",
+      "location": "Split, Croatia",
+      "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed"
+    },
+    {
+      "id": 4,
+      "title": "Mountain Cabin in Kopaonik",
+      "price": "€190,000",
+      "location": "Kopaonik, Serbia",
+      "image": "https://images.unsplash.com/photo-1600585154154-1c8b0c0b8f95"
+    },
+    {
+      "id": 5,
+      "title": "Modern Flat in Ljubljana",
+      "price": "€210,000",
+      "location": "Ljubljana, Slovenia",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+    },
+    {
+      "id": 6,
+      "title": "Rustic House in Istria",
+      "price": "€300,000",
+      "location": "Pula, Croatia",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+    },
+    {
+      "id": 7,
+      "title": "City Loft in Novi Sad",
+      "price": "€140,000",
+      "location": "Novi Sad, Serbia",
+      "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+    },
+    {
+      "id": 8,
+      "title": "Beach House in Budva",
+      "price": "€600,000",
+      "location": "Budva, Montenegro",
+      "image": "https://images.unsplash.com/photo-1600585153856-5adf02e2b9d3"
+    },
+    {
+      "id": 9,
+      "title": "Countryside Cottage",
+      "price": "€95,000",
+      "location": "Maribor, Slovenia",
+      "image": "https://images.unsplash.com/photo-1618221514653-1a77cd4c0d1d"
+    },
+    {
+      "id": 10,
+      "title": "Luxury Penthouse in Vienna",
+      "price": "€950,000",
+      "location": "Vienna, Austria",
+      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+    }
+  ]
+}
