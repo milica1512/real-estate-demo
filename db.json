@@ -128,3 +128,17 @@
     },
     {
       "id": 19,
+      "title": "Mountain Cabin in Zlatibor",
+      "price": "€155,000",
+      "location": "Zlatibor, Serbia",
+      "image": "https://images.unsplash.com/photo-1628744596679-b6e0045aaae7?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 20,
+      "title": "Luxury Penthouse in Vienna",
+      "price": "€970,000",
+      "location": "Vienna, Austria",
+      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
+    }
+  ]
+}
