@@ -69,6 +69,62 @@
       "price": "€950,000",
       "location": "Vienna, Austria",
       "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80"
-    }
-  ]
-}
+    },
+    {
+      "id": 11,
+      "title": "Luxury Apartment in Belgrade",
+      "price": "€245,000",
+      "location": "Belgrade, Serbia",
+      "image": "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 12,
+      "title": "Modern Loft in Novi Sad",
+      "price": "€185,000",
+      "location": "Novi Sad, Serbia",
+      "image": "https://images.unsplash.com/photo-1600607686527-6fb886090705?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 13,
+      "title": "Cozy Flat in Zagreb",
+      "price": "€130,000",
+      "location": "Zagreb, Croatia",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 14,
+      "title": "Luxury Villa with Pool in Split",
+      "price": "€540,000",
+      "location": "Split, Croatia",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 15,
+      "title": "Charming Cottage in Kopaonik",
+      "price": "€190,000",
+      "location": "Kopaonik, Serbia",
+      "image": "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 16,
+      "title": "Beachfront Home in Budva",
+      "price": "€620,000",
+      "location": "Budva, Montenegro",
+      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 17,
+      "title": "Rustic House in Istria",
+      "price": "€285,000",
+      "location": "Pula, Croatia",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 18,
+      "title": "Elegant Apartment in Ljubljana",
+      "price": "€215,000",
+      "location": "Ljubljana, Slovenia",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 19,
