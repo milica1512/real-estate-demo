@@ -141,4 +141,29 @@
       "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
     }
   ]
+  ,
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Marko M.",
+      "comment": "Profesionalni, brzi i pouzdani! Pomogli su mi da pronađem savršen stan.",
+      "location": "Beograd",
+      "image": "https://i.pravatar.cc/100?img=12"
+    },
+    {
+      "id": 2,
+      "name": "Jelena P.",
+      "comment": "Odlična komunikacija i podrška tokom kupovine.",
+      "location": "Novi Sad",
+      "image": "https://i.pravatar.cc/100?img=8"
+    },
+    {
+      "id": 3,
+      "name": "Nikola R.",
+      "comment": "Sve preporuke! Kupovina bez stresa.",
+      "location": "Niš",
+      "image": "https://i.pravatar.cc/100?img=20"
+    }
+  ]
 }
+
