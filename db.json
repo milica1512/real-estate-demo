@@ -163,7 +163,16 @@
       "comment": "Highly recommended! The purchase was completely stress-free.",
       "location": "Nis",
       "image": "https://i.pravatar.cc/100?img=20"
-    }
+    },
+"agents": [
+  { "id": 1, "name": "Igor Ostojić", "location": "Belgrade, Serbia", "image": "https://i.pravatar.cc/150?img=11", "phone": "+381 63 111 222", "email": "igor@realestate.com" },
+  { "id": 2, "name": "Milica Lazarević", "location": "Novi Sad, Serbia", "image": "https://i.pravatar.cc/150?img=47", "phone": "+381 63 222 333", "email": "milica@realestate.com" },
+  { "id": 3, "name": "Dajana Pajkić", "location": "Zagreb, Croatia", "image": "https://i.pravatar.cc/150?img=23", "phone": "+385 99 123 456", "email": "dajana@realestate.com" },
+  { "id": 4, "name": "Ilija Radovanović", "location": "Niš, Serbia", "image": "https://i.pravatar.cc/150?img=52", "phone": "+381 65 987 654", "email": "ilija@realestate.com" },
+  { "id": 5, "name": "Svetlana Lazarević", "location": "Podgorica, Montenegro", "image": "https://i.pravatar.cc/150?img=31", "phone": "+382 69 456 789", "email": "svetlana@realestate.com" },
+  { "id": 6, "name": "Mihailo Miladinović", "location": "Split, Croatia", "image": "https://i.pravatar.cc/150?img=59", "phone": "+385 91 555 666", "email": "mihailo@realestate.com" }
+]
+
   ]
 }
 
