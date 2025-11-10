@@ -1,178 +1,38 @@
 {
   "listings": [
-    {
-      "id": 1,
-      "title": "Modern Apartment in Belgrade",
-      "price": "€120,000",
-      "location": "Belgrade, Serbia",
-      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
-    },
-    {
-      "id": 2,
-      "title": "Cozy Studio in Zagreb",
-      "price": "€85,000",
-      "location": "Zagreb, Croatia",
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
-    },
-    {
-      "id": 3,
-      "title": "Luxury Villa in Split",
-      "price": "€450,000",
-      "location": "Split, Croatia",
-      "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed"
-    },
-    {
-      "id": 4,
-      "title": "Mountain Cabin in Kopaonik",
-      "price": "€190,000",
-      "location": "Kopaonik, Serbia",
-      "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 5,
-      "title": "Modern Flat in Ljubljana",
-      "price": "€210,000",
-      "location": "Ljubljana, Slovenia",
-      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
-    },
-    {
-      "id": 6,
-      "title": "Rustic House in Istria",
-      "price": "€300,000",
-      "location": "Pula, Croatia",
-      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
-    },
-    {
-      "id": 7,
-      "title": "City Loft in Novi Sad",
-      "price": "€140,000",
-      "location": "Novi Sad, Serbia",
-      "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
-    },
-    {
-      "id": 8,
-      "title": "Beach House in Budva",
-      "price": "€600,000",
-      "location": "Budva, Montenegro",
-      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 9,
-      "title": "Countryside Cottage",
-      "price": "€95,000",
-      "location": "Maribor, Slovenia",
-      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 10,
-      "title": "Luxury Penthouse in Vienna",
-      "price": "€950,000",
-      "location": "Vienna, Austria",
-      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 11,
-      "title": "Luxury Apartment in Belgrade",
-      "price": "€245,000",
-      "location": "Belgrade, Serbia",
-      "image": "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 12,
-      "title": "Modern Loft in Novi Sad",
-      "price": "€185,000",
-      "location": "Novi Sad, Serbia",
-      "image": "https://images.unsplash.com/photo-1600607686527-6fb886090705?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 13,
-      "title": "Cozy Flat in Zagreb",
-      "price": "€130,000",
-      "location": "Zagreb, Croatia",
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 14,
-      "title": "Luxury Villa with Pool in Split",
-      "price": "€540,000",
-      "location": "Split, Croatia",
-      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 15,
-      "title": "Charming Cottage in Kopaonik",
-      "price": "€190,000",
-      "location": "Kopaonik, Serbia",
-      "image": "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 16,
-      "title": "Beachfront Home in Budva",
-      "price": "€620,000",
-      "location": "Budva, Montenegro",
-      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 17,
-      "title": "Rustic House in Istria",
-      "price": "€285,000",
-      "location": "Pula, Croatia",
-      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 18,
-      "title": "Elegant Apartment in Ljubljana",
-      "price": "€215,000",
-      "location": "Ljubljana, Slovenia",
-      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 19,
-      "title": "Mountain Cabin in Zlatibor",
-      "price": "€155,000",
-      "location": "Zlatibor, Serbia",
-      "image": "https://images.unsplash.com/photo-1628744596679-b6e0045aaae7?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": 20,
-      "title": "Luxury Penthouse in Vienna",
-      "price": "€970,000",
-      "location": "Vienna, Austria",
-      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
-    }
-  ]
-  ,
+    { "id": 1, "title": "Modern Apartment in Belgrade", "price": "€120,000", "location": "Belgrade, Serbia", "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994" },
+    { "id": 2, "title": "Cozy Studio in Zagreb", "price": "€85,000", "location": "Zagreb, Croatia", "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c" },
+    { "id": 3, "title": "Luxury Villa in Split", "price": "€450,000", "location": "Split, Croatia", "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed" },
+    { "id": 4, "title": "Mountain Cabin in Kopaonik", "price": "€190,000", "location": "Kopaonik, Serbia", "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 5, "title": "Modern Flat in Ljubljana", "price": "€210,000", "location": "Ljubljana, Slovenia", "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688" },
+    { "id": 6, "title": "Rustic House in Istria", "price": "€300,000", "location": "Pula, Croatia", "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267" },
+    { "id": 7, "title": "City Loft in Novi Sad", "price": "€140,000", "location": "Novi Sad, Serbia", "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6" },
+    { "id": 8, "title": "Beach House in Budva", "price": "€600,000", "location": "Budva, Montenegro", "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 9, "title": "Countryside Cottage", "price": "€95,000", "location": "Maribor, Slovenia", "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 10, "title": "Luxury Penthouse in Vienna", "price": "€950,000", "location": "Vienna, Austria", "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 11, "title": "Luxury Apartment in Belgrade", "price": "€245,000", "location": "Belgrade, Serbia", "image": "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 12, "title": "Modern Loft in Novi Sad", "price": "€185,000", "location": "Novi Sad, Serbia", "image": "https://images.unsplash.com/photo-1600607686527-6fb886090705?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 13, "title": "Cozy Flat in Zagreb", "price": "€130,000", "location": "Zagreb, Croatia", "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 14, "title": "Luxury Villa with Pool in Split", "price": "€540,000", "location": "Split, Croatia", "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 15, "title": "Charming Cottage in Kopaonik", "price": "€190,000", "location": "Kopaonik, Serbia", "image": "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 16, "title": "Beachfront Home in Budva", "price": "€620,000", "location": "Budva, Montenegro", "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 17, "title": "Rustic House in Istria", "price": "€285,000", "location": "Pula, Croatia", "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 18, "title": "Elegant Apartment in Ljubljana", "price": "€215,000", "location": "Ljubljana, Slovenia", "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 19, "title": "Mountain Cabin in Zlatibor", "price": "€155,000", "location": "Zlatibor, Serbia", "image": "https://images.unsplash.com/photo-1628744596679-b6e0045aaae7?auto=format&fit=crop&w=1200&q=80" },
+    { "id": 20, "title": "Luxury Penthouse in Vienna", "price": "€970,000", "location": "Vienna, Austria", "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80" }
+  ],
   "testimonials": [
-    {
-      "id": 1,
-      "name": "Marko M.",
-      "comment": "Professional, fast, and reliable! They helped me find my perfect home.",
-      "location": "Belegrade",
-      "image": "https://i.pravatar.cc/100?img=12"
-    },
-    {
-      "id": 2,
-      "name": "Jelena P.",
-      "comment": "Excellent communication and support throughout the purchase process.",
-      "location": "Novi Sad",
-      "image": "https://i.pravatar.cc/100?img=8"
-    },
-    {
-      "id": 3,
-      "name": "Nikola R.",
-      "comment": "Highly recommended! The purchase was completely stress-free.",
-      "location": "Nis",
-      "image": "https://i.pravatar.cc/100?img=20"
-    },
-"agents": [
-  { "id": 1, "name": "Igor Ostojić", "location": "Belgrade, Serbia", "image": "https://i.pravatar.cc/150?img=11", "phone": "+381 63 111 222", "email": "igor@realestate.com" },
-  { "id": 2, "name": "Milica Lazarević", "location": "Novi Sad, Serbia", "image": "https://i.pravatar.cc/150?img=47", "phone": "+381 63 222 333", "email": "milica@realestate.com" },
-  { "id": 3, "name": "Dajana Pajkić", "location": "Zagreb, Croatia", "image": "https://i.pravatar.cc/150?img=23", "phone": "+385 99 123 456", "email": "dajana@realestate.com" },
-  { "id": 4, "name": "Ilija Radovanović", "location": "Niš, Serbia", "image": "https://i.pravatar.cc/150?img=52", "phone": "+381 65 987 654", "email": "ilija@realestate.com" },
-  { "id": 5, "name": "Svetlana Lazarević", "location": "Podgorica, Montenegro", "image": "https://i.pravatar.cc/150?img=31", "phone": "+382 69 456 789", "email": "svetlana@realestate.com" },
-  { "id": 6, "name": "Mihailo Miladinović", "location": "Split, Croatia", "image": "https://i.pravatar.cc/150?img=59", "phone": "+385 91 555 666", "email": "mihailo@realestate.com" }
-]
-
+    { "id": 1, "name": "Marko M.", "comment": "Professional, fast, and reliable! They helped me find my perfect home.", "location": "Belgrade", "image": "https://i.pravatar.cc/100?img=12" },
+    { "id": 2, "name": "Jelena P.", "comment": "Excellent communication and support throughout the purchase process.", "location": "Novi Sad", "image": "https://i.pravatar.cc/100?img=8" },
+    { "id": 3, "name": "Nikola R.", "comment": "Highly recommended! The purchase was completely stress-free.", "location": "Nis", "image": "https://i.pravatar.cc/100?img=20" }
+  ],
+  "agents": [
+    { "id": 1, "name": "Igor Ostojić", "location": "Belgrade, Serbia", "image": "https://i.pravatar.cc/150?img=11", "phone": "+381 63 111 222", "email": "igor@realestate.com" },
+    { "id": 2, "name": "Milica Lazarević", "location": "Vrnjacka Banja, Serbia", "image": "https://i.pravatar.cc/150?img=47", "phone": "+381 63 222 333", "email": "milica@realestate.com" },
+    { "id": 3, "name": "Dajana Pajkić", "location": "Novi Sad, Serbia", "image": "https://i.pravatar.cc/150?img=23", "phone": "+385 99 123 456", "email": "dajana@realestate.com" },
+    { "id": 4, "name": "Ilija Radovanović", "location": "Nis, Serbia", "image": "https://i.pravatar.cc/150?img=52", "phone": "+381 65 987 654", "email": "ilija@realestate.com" },
+    { "id": 5, "name": "Svetlana Lazarević", "location": "Podgorica, Montenegro", "image": "https://i.pravatar.cc/150?img=31", "phone": "+382 69 456 789", "email": "svetlana@realestate.com" },
+    { "id": 6, "name": "Mihailo Miladinović", "location": "Split, Croatia", "image": "https://i.pravatar.cc/150?img=59", "phone": "+385 91 555 666", "email": "mihailo@realestate.com" }
   ]
 }
 
