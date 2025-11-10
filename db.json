@@ -147,7 +147,7 @@
       "id": 1,
       "name": "Marko M.",
       "comment": "Professional, fast, and reliable! They helped me find my perfect home.",
-      "location": "Beograd",
+      "location": "Belegrade",
       "image": "https://i.pravatar.cc/100?img=12"
     },
     {
@@ -161,7 +161,7 @@
       "id": 3,
       "name": "Nikola R.",
       "comment": "Highly recommended! The purchase was completely stress-free.",
-      "location": "Niš",
+      "location": "Nis",
       "image": "https://i.pravatar.cc/100?img=20"
     }
   ]
