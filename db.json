@@ -21,6 +21,29 @@
     { "id": 19, "title": "Mountain Cabin in Zlatibor", "price": "€155,000", "location": "Zlatibor, Serbia", "image": "https://images.unsplash.com/photo-1628744596679-b6e0045aaae7?auto=format&fit=crop&w=1200&q=80" },
     { "id": 20, "title": "Luxury Penthouse in Vienna", "price": "€970,000", "location": "Vienna, Austria", "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80" }
   ],
+  
+  "listingDetails": [
+    { "id": 1, "bedrooms": 3, "bathrooms": 2, "area": 85,  "description": "Modern apartment in a quiet Belgrade neighborhood, close to city center." },
+    { "id": 2, "bedrooms": 1, "bathrooms": 1, "area": 35,  "description": "Cozy studio ideal for students or young professionals in Zagreb." },
+    { "id": 3, "bedrooms": 4, "bathrooms": 3, "area": 220, "description": "Luxury villa with large terrace and sea view in Split." },
+    { "id": 4, "bedrooms": 2, "bathrooms": 1, "area": 70,  "description": "Warm wooden cabin near ski slopes in Kopaonik." },
+    { "id": 5, "bedrooms": 2, "bathrooms": 1, "area": 60,  "description": "Modern flat in the heart of Ljubljana, close to cafes and parks." },
+    { "id": 6, "bedrooms": 3, "bathrooms": 2, "area": 140, "description": "Rustic stone house in beautiful Istria region." },
+    { "id": 7, "bedrooms": 2, "bathrooms": 1, "area": 75,  "description": "Bright loft apartment in Novi Sad with open-plan living space." },
+    { "id": 8, "bedrooms": 5, "bathrooms": 3, "area": 250, "description": "Spacious beach house just a few steps from the sea in Budva." },
+    { "id": 9, "bedrooms": 2, "bathrooms": 1, "area": 55,  "description": "Charming countryside cottage surrounded by nature near Maribor." },
+    { "id": 10, "bedrooms": 4, "bathrooms": 3, "area": 200, "description": "Luxury penthouse in Vienna with city skyline views." },
+    { "id": 11, "bedrooms": 3, "bathrooms": 2, "area": 95,  "description": "High-end apartment in Belgrade, ideal for families." },
+    { "id": 12, "bedrooms": 2, "bathrooms": 1, "area": 82,  "description": "Modern loft in Novi Sad with industrial design details." },
+    { "id": 13, "bedrooms": 2, "bathrooms": 1, "area": 65,  "description": "Cozy flat in Zagreb, perfect for city life lovers." },
+    { "id": 14, "bedrooms": 5, "bathrooms": 4, "area": 280, "description": "Luxury villa with private pool and garden in Split." },
+    { "id": 15, "bedrooms": 3, "bathrooms": 2, "area": 120, "description": "Charming cottage in Kopaonik ideal for winter vacations." },
+    { "id": 16, "bedrooms": 4, "bathrooms": 3, "area": 210, "description": "Beachfront home in Budva with large terrace and sea view." },
+    { "id": 17, "bedrooms": 3, "bathrooms": 2, "area": 135, "description": "Rustic house in Istria combining tradition and comfort." },
+    { "id": 18, "bedrooms": 2, "bathrooms": 1, "area": 78,  "description": "Elegant apartment in Ljubljana with modern interior." },
+    { "id": 19, "bedrooms": 2, "bathrooms": 1, "area": 68,  "description": "Mountain cabin in Zlatibor surrounded by pine forest." },
+    { "id": 20, "bedrooms": 4, "bathrooms": 3, "area": 210, "description": "Exclusive Vienna penthouse with large rooftop terrace." }
+  ],
   "testimonials": [
     { "id": 1, "name": "Marko M.", "comment": "Professional, fast, and reliable! They helped me find my perfect home.", "location": "Belgrade", "image": "https://i.pravatar.cc/100?img=12" },
     { "id": 2, "name": "Jelena P.", "comment": "Excellent communication and support throughout the purchase process.", "location": "Novi Sad", "image": "https://i.pravatar.cc/100?img=8" },
